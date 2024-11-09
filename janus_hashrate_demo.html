@@ -196,14 +196,14 @@
             if (select_gpu.value != "custom"){
                 gpu_input.value = select_gpu.value;
             }
-            calcJanus()
+            calcJanus();
         });
         select_cpu.addEventListener('change', () => {
             cpu_input.disabled = select_cpu.value != "custom"
             if (select_cpu.value != "custom"){
                 cpu_input.value = select_cpu.value;
             }
-            calcJanus()
+            calcJanus();
         });
         gpu_input.addEventListener('input', calcJanus);
 
