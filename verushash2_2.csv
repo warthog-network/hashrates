@@ -1,6 +1,6 @@
 manufacturer, model, hashrate mh/s
-AMD, 2x Epyc 7642, 120.13
-AMD, 2x Epyc 7742, 123.11
+AMD, Epyc 7642 (2x), 120.13
+AMD, Epyc 7742 (2x), 123.11
 AMD, Epyc 7532, 50
 AMD, Epyc 7742, 82
 AMD, Epyc 7742, 92.8
@@ -60,14 +60,14 @@ AMD, Ryzen 9 7950X, 49.59
 AMD, Ryzen 9 7950X, 50
 AMD, Ryzen 9 7950X, 53.4
 AMD, Ryzen 9 7950X3D, 45
-Intel, 2x E5-2697v2, 25.58
+Intel, E5-2697v2 (2x), 25.58
 Intel, Xeon E5-2630v4, 11.24
 Intel, Core i5 12400F, 14.6
 Intel, Core i5 13500, 18
 Intel, Core i5 13600K, 30
-Intel, Core i5-10300h, 6
+Intel, Core i5-10300H, 6
 Intel, Core i5-10400, 9
-Intel, Core i5-9600K, 5,49
+Intel, Core i5-9600K, 5.49
 Intel, Core i5-9600K, 6
 Intel, Core i5-9600K, 7.4
 Intel, Core i7-10700F, 15.3
@@ -75,6 +75,6 @@ Intel, Core i7-10700F, 16.1
 Intel, Core i7-10700F, 16.1
 Intel, Core i7-14700F, 34
 Intel, Core i7-6820HQ, 4.76
-Intel, Core i7-8700K, 8,4
+Intel, Core i7-8700K, 8.4
 Intel, Core i9-12900K, 26.09
 Intel, Core i9-12900K, 28.14
