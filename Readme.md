@@ -1,3 +1,6 @@
+# This repo was merged
+New data location for hashrates is [warthog-network/public-data](https://github.com/warthog-network/public-data).
+
 # Hashrate reports
 
 Use this repo to report your hashrates. This is useful for setting up a mining calculator that computes your combined CPU+GPU hashrate for Warthog's Janushash algorithm.
